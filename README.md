@@ -22,9 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Gajanan1904" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-  </a>
+  
 </p>
 
 ---
