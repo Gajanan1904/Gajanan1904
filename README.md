@@ -43,7 +43,7 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 </p>
 
 **Data & Analytics Tools:**  
