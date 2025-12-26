@@ -27,7 +27,7 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ## 🚀 About Me
 - 📊 Strong interest in **Data Analytics, Data Science & Machine Learning**
-- 🧠 Solid foundation in **Data Structures & Algorithms (DSA)** using **C, C++ & Java**
+- 🧠 Solid foundation in **Data Structures & Algorithms (DSA)** using **C++**
 - 💻 Passionate about **problem-solving, algorithmic thinking & optimization**
 - 📈 Hands-on experience with **EDA, dashboards & predictive modeling**
 - 🤖 Interested in applying **ML + DSA** to solve **real-world business problems**
