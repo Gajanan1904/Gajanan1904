@@ -1,76 +1,125 @@
-<h1 align="center">Hi 👋, I'm Gajanan</h1>
-<h3 align="center">BTech CSE | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=180&section=header&text=Hi%20%2C%20I'm%20Gajanan%20Bidwai&fontSize=35&fontColor=ffffff&fontAlign=50" alt="header banner"/>
+</p>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m interested in Computer Programming, Machine Learning & Data Science  
-- 🌱 I’m currently learning DSA  
-- 🤝 I’m looking to collaborate on Machine Learning Projects  
-- 📫 How to reach me: https://github.com/Gajanan1904 
-
-
-
-
----
-
-### 🌐 Connect with me
+<h3 align="center">
+📊 Aspiring Data Scientist | Data Analytics & Machine Learning Enthusiast  
+<br/>
+BTech CSE | Turning data into actionable insights 🚀
+</h3>
 
 <p align="center">
+  <a href="https://github.com/Gajanan1904" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/gajanan19/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-</p>
-
----
-
-### 📂 Projects
-
-<p align="center">
-  👨‍💻 All of my projects are available at  
-  <br/>
-  <a href="https://github.com/Gajanan1904?tab=repositories">
-    https://github.com/Gajanan1904?tab=repositories
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  
-</p>
-
-
-
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajanan1904&layout=compact&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=520&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+Enthusiast;Learning+from+Data+Everyday+📈" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🚀 About Me
+- 📊 Strong interest in **Data Analytics, Data Science & Machine Learning**
+- 🧠 Skilled in **Python, SQL, statistics & data preprocessing**
+- 📈 Hands-on experience with **EDA, dashboards & predictive modeling**
+- 🤖 Passionate about applying ML to solve **real-world business problems**
+- 🤝 Open to collaborating on **Data Analytics & ML projects**
+- 📫 **Reach me:** [github.com/Gajanan1904](https://github.com/Gajanan1904)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,git,linux" height="60"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,vscode" height="60"/>
+</p>
+
+**Data & Analytics Tools:**  
+📊 Excel | 📈 Power BI | 📉 Tableau | 🧮 Statistics | 🤖 Machine Learning | 📂 Data Cleaning & EDA  
+
+---
+
+## 🧩 Featured Projects
+
+### 📊 Attrition Risk & Workforce Segmentation using Machine Learning  
+**Nov 2025 – Present**
+
+- Built an **ML-based employee churn prediction & workforce segmentation system** using **XGBoost**  
+- Executed **data preprocessing, missing value treatment, outlier handling & feature encoding**, improving model efficiency by **40%**  
+- Achieved **92% classification accuracy**, enabling reliable HR risk forecasting  
+- Delivered **SQL-driven insights & interactive Power BI dashboards**, reducing manual HR analysis by **60%** and accelerating decision-making by **30%**
+
+**🛠 Tech:** Python, Pandas, Scikit-learn (LR, KNN, Decision Tree), XGBoost, SQL, Power BI, Matplotlib, Seaborn  
+
+---
+
+### 📈 Data-Driven Churn Prediction Analysis with ML, SQL & Power BI  
+**Jun 2025 – Jul 2025**
+
+- Designed a **predictive churn classification pipeline** using **Gradient Boosted Decision Trees (XGBoost)**  
+- Applied **data quality engineering** (null imputation, anomaly treatment, categorical encoding), achieving **40% faster model convergence**  
+- Reached **92% model accuracy** through optimized preprocessing & feature selection  
+- Produced **SQL-based analytics & Power BI dashboards**, reducing manual evaluation effort by **60%** and improving decision turnaround by **30%**
+
+**🛠 Tech:** Python, Pandas, Scikit-learn, XGBoost, MySQL, Power BI  
+
+---
+
+### 🎓 EDU_HUB – Personalized Learning System  
+**Feb 2024 – Mar 2024**
+
+- Developed a **personalized e-learning platform** with adaptive learning pathways  
+- Reduced **page load latency by 50%** through optimized UI & backend integration  
+- Implemented **secure authentication & client–server communication** using Django & PHP APIs  
+- Achieved **accessibility compliance & cross-device compatibility**  
+- **Winner project at HACK-IOT 2024**
+
+**🛠 Tech:** HTML, CSS, JavaScript, Python (Django), PHP  
+
+---
+
+## 🏆 Achievements & Recognition
+
+🥇 **Winner – HACK-IOT 2024 Hackathon, Lovely Professional University**  
+- Secured **1st Position among 450+ teams** for building an innovative EdTech solution
+
+🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**  
+- Ranked **Top 5 among 750+ participants** in a competitive hackathon
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gajanan1904&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gajanan19/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Gajanan1904" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+📊;Data+Drives+Decisions+🚀" />
 </p>
