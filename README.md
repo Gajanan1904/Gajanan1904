@@ -58,6 +58,15 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gajanan1904&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gajanan1904&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gajanan1904&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 🧩 Featured Projects
 
 ## 🚀 Attrition Risk & Workforce Segmentation (ML)
