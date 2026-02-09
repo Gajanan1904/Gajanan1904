@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f172a&height=180&section=header&text=Hi%20%2C%20I'm%20Gajanan%20Bidwai&fontSize=35&fontColor=ffffff&fontAlign=50" alt="header banner"/>
 </p>
@@ -31,11 +30,12 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ## 🚀 About Me
 - 📊 Passionate about **Data Analytics, Data Science & Machine Learning**
-- 🧠 Strong foundation in **DSA (C++)**
+- 🧠 Strong foundation in **DSA (C++)** with a problem-solving mindset
 - 📈 Hands-on experience in **EDA, dashboards & predictive modeling**
-- 🤖 Interested in **ML + algorithms for real-world problems**
+- 🤖 Interested in applying **ML + algorithms** to real-world business problems
 - 🤝 Open to collaboration on **data-driven & ML projects**
-- 📫 **Email:** gbidwai19@gmail.com
+- 📫 **Reach me:** gbidwai19@gmail.com
+
 
 ---
 
@@ -47,8 +47,8 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="60"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 </p>
@@ -60,40 +60,41 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gajanan1904&show_icons=true&theme=dark&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gajanan1904&theme=dark&hide_border=false" />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gajanan1904&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajanan1904&layout=compact&theme=dark&hide_border=false" />
-</p>
 
----
+
 
 ## 🧩 Featured Projects
 
-### 🚀 Attrition Risk & Workforce Segmentation (ML)
-ML-powered system to predict employee attrition and segment workforce using XGBoost.  
-**Tech:** Python, Pandas, Scikit-learn, XGBoost, SQL, Power BI  
+## 🚀 Attrition Risk & Workforce Segmentation (ML)
 
-### 📊 Data-Driven Churn Prediction Analysis
-End-to-end churn prediction pipeline with ML modeling and Power BI dashboards.  
-**Tech:** Python, Pandas, Scikit-learn, XGBoost, MySQL, Power BI  
+ML-powered system to predict employee attrition and segment workforce using XGBoost, enabling HR risk forecasting and faster data-driven decisions.  
+**🛠 Tech:** Python, Pandas, Scikit-learn, XGBoost, SQL, Power BI
 
-### 🎓 EDU_HUB – Personalized Learning System
-Adaptive e-learning platform with personalized learning paths.  
-**Tech:** HTML, CSS, JavaScript, Django, PHP  
+
+
+## 📊 Data-Driven Churn Prediction Analysis
+
+End-to-end churn prediction pipeline with advanced preprocessing, ML modeling, and interactive Power BI dashboards for actionable business insights.  
+**🛠 Tech:** Python, Pandas, Scikit-learn, XGBoost, MySQL, Power BI
+
+
+
+## 🎓 EDU_HUB – Personalized Learning System
+
+Adaptive e-learning platform with secure authentication and personalized learning paths; optimized for performance, accessibility, and cross-device use.   
+**🛠 Tech:** HTML, CSS, JavaScript, Django, PHP
+
 
 ---
 
 ## 🏆 Achievements & Recognition
 
 🥇 **Winner – HACK-IOT 2024, Lovely Professional University**  
-🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**
+
+🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**  
 
 ---
 
@@ -104,14 +105,21 @@ Adaptive e-learning platform with personalized learning paths.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg"
-    width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph-dark.svg?v=1"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg?v=1"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg?v=1"
+    width="100%"
+  />
 </picture>
+
 
 ---
 
@@ -134,4 +142,3 @@ Adaptive e-learning platform with personalized learning paths.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+📊;Data+%2B+DSA+%3D+Impact+🚀" />
 </p>
-```
