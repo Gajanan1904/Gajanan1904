@@ -9,6 +9,9 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 </h3>
 
 <p align="center">
+  <a href="https://gajananportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://leetcode.com/u/gajanan_19/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
@@ -28,6 +31,13 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ---
 
+## 🌐 My Portfolio
+
+🚀 **Live Portfolio:** https://gajananportfolio.vercel.app/  
+Showcasing my Data Science, Machine Learning, and Analytics projects with dashboards and case studies.
+
+---
+
 ## 🚀 About Me
 - 📊 Passionate about **Data Analytics, Data Science & Machine Learning**
 - 🧠 Strong foundation in **DSA (C++)** with a problem-solving mindset
@@ -35,7 +45,6 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 - 🤖 Interested in applying **ML + algorithms** to real-world business problems
 - 🤝 Open to collaboration on **data-driven & ML projects**
 - 📫 **Reach me:** gbidwai19@gmail.com
-
 
 ---
 
@@ -47,8 +56,8 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 </p>
@@ -60,41 +69,30 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 
 ## 📊 GitHub Stats
 
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gajanan1904&theme=dark&hide_border=false)
 
-
-
+---
 
 ## 🧩 Featured Projects
 
-## 🚀 Attrition Risk & Workforce Segmentation (ML)
-
+### 🚀 Attrition Risk & Workforce Segmentation (ML)
 ML-powered system to predict employee attrition and segment workforce using XGBoost, enabling HR risk forecasting and faster data-driven decisions.  
 **🛠 Tech:** Python, Pandas, Scikit-learn, XGBoost, SQL, Power BI
 
-
-
-## 📊 Data-Driven Churn Prediction Analysis
-
+### 📊 Data-Driven Churn Prediction Analysis
 End-to-end churn prediction pipeline with advanced preprocessing, ML modeling, and interactive Power BI dashboards for actionable business insights.  
 **🛠 Tech:** Python, Pandas, Scikit-learn, XGBoost, MySQL, Power BI
 
-
-
-## 🎓 EDU_HUB – Personalized Learning System
-
-Adaptive e-learning platform with secure authentication and personalized learning paths; optimized for performance, accessibility, and cross-device use.   
+### 🎓 EDU_HUB – Personalized Learning System
+Adaptive e-learning platform with secure authentication and personalized learning paths; optimized for performance, accessibility, and cross-device use.  
 **🛠 Tech:** HTML, CSS, JavaScript, Django, PHP
-
 
 ---
 
 ## 🏆 Achievements & Recognition
 
 🥇 **Winner – HACK-IOT 2024, Lovely Professional University**  
-
-🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**  
+🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**
 
 ---
 
@@ -120,12 +118,14 @@ Adaptive e-learning platform with secure authentication and personalized learnin
   />
 </picture>
 
-
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://gajananportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/gajanan19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
