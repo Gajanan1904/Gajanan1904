@@ -65,13 +65,6 @@ Showcasing my Data Science, Machine Learning, and Analytics projects with dashbo
 **Problem Solving & DSA**  
 🧠 Arrays | Strings | Linked Lists | Stacks | Queues | Trees | Graphs | Recursion | Dynamic Programming  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Gajanan1904&theme=dark&hide_border=false)
-
----
 
 ## 🧩 Featured Projects
 
