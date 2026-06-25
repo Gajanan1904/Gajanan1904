@@ -83,9 +83,8 @@ Adaptive e-learning platform with secure authentication and personalized learnin
 ---
 
 ## 🏆 Achievements & Recognition
-
 🥇 **Winner – HACK-IOT 2024, Lovely Professional University**  
-🏅 **Top 5 Finalist – Tech Blitz Hackathon, Coding Ninjas LPU**
+🏅 **GATE 2026 Qualified**
 
 ---
 
